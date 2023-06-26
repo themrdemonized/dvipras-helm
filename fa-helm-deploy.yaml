@@ -1,0 +1,2 @@
+release: site-kira-dvipras
+kubeconfigEnv: KUBECONFIG_KRASNORECH_PATH
